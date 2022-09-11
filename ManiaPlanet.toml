@@ -1,0 +1,46 @@
+# Generated with Overlay Style Manager 1.0.1
+
+[Style]
+Alpha = 1
+WindowRounding = 0
+WindowTitleAlign = [ 0.5, 0.5 ]
+FrameRounding = 0
+ScrollbarRounding = 0
+TabRounding = 0
+
+[Colors]
+WindowBg = "#012944"
+PopupBg = "#012944EE"
+FrameBg = "#003961"
+FrameBgHovered = "#00479B63"
+TitleBg = "#006890"
+TitleBgActive = "#029CD8"
+MenuBarBg = "#003A61"
+ScrollbarBg = "#003A61"
+ScrollbarGrab = "#0879B5"
+ScrollbarGrabHovered = "#30A5DD"
+ScrollbarGrabActive = "#60D7FD"
+SliderGrab = "#0879B5"
+SliderGrabActive = "#60D7FD"
+Button = "#0879B5"
+ButtonHovered = "#30A5DD"
+ButtonActive = "#60D7FD"
+Header = "#0879B5"
+HeaderHovered = "#30A5DD"
+HeaderActive = "#60D7FD"
+Separator = "#0879B5"
+SeparatorHovered = "#30A5DD"
+SeparatorActive = "#60D7FD"
+ResizeGrip = "#0879B5"
+ResizeGripHovered = "#30A5DD"
+ResizeGripActive = "#60D7FD"
+Tab = "#0879B5"
+TabHovered = "#30A5DD"
+TabActive = "#60D7FD"
+TabUnfocused = "#0879B5"
+TabUnfocusedActive = "#60D7FD"
+PlotLines = "#30A5DD"
+PlotLinesHovered = "#60D7FD"
+PlotHistogram = "#30A5DD"
+PlotHistogramHovered = "#60D7FD"
+DragDropTarget = "#60D7FD"
